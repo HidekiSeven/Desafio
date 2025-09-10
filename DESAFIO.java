@@ -1,6 +1,8 @@
+package Desafio;
+
 import java.util.Scanner;
 
-public class ReducaoTempoDeVida {
+public class Desafio {
 
     public static void main(String[] args) {
 
